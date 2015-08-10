@@ -1,9 +1,11 @@
-package lee51877.iw.ur.de.gardenproject;
+package lee51877.iw.ur.de.gardenproject.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
+
+import lee51877.iw.ur.de.gardenproject.R;
 
 public class MainActivity extends AppCompatActivity {
 
