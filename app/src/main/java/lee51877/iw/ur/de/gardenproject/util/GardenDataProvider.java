@@ -18,6 +18,8 @@ import lee51877.iw.ur.de.gardenproject.log.Log;
  */
 public class GardenDataProvider {
 
+    public GardenDataProvider(){}
+
     public void getTestInfo(){
         DownLoadGardenInfoTask task = new DownLoadGardenInfoTask();
         task.execute();
