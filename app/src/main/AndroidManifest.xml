@@ -16,6 +16,30 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".activities.EnterGarden"
+            android:label="@string/title_activity_enter_garden" >
+        </activity>
+        <activity
+            android:name=".activities.SearchForPlant"
+            android:label="@string/title_activity_search_for_plant" >
+        </activity>
+        <activity
+            android:name=".activities.DisplayPlantInfo"
+            android:label="@string/title_activity_display_plant_info" >
+        </activity>
+        <activity
+            android:name=".activities.PlantGallery"
+            android:label="@string/title_activity_plant_gallery" >
+        </activity>
+        <activity
+            android:name=".activities.WishList"
+            android:label="@string/title_activity_wish_list" >
+        </activity>
+        <activity
+            android:name=".activities.GardenToDos"
+            android:label="@string/title_activity_garden_to_dos" >
+        </activity>
     </application>
 
 </manifest>
