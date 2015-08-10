@@ -7,6 +7,7 @@ import android.view.MenuItem;
 
 import lee51877.iw.ur.de.gardenproject.R;
 
+//test
 public class DisplayPlantInfo extends AppCompatActivity {
 
     @Override
